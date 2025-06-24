@@ -65,12 +65,18 @@ const App = () => {
         </div>
 
         <div className="flex flex-wrap justify-center gap-4 mb-6 sm:mb-10">
-          <Button onClick={handleShow} variant="primary" disabled={showCard}>
-            Show Welcome Card
-          </Button>
-          <Button onClick={handleHide} variant="secondary" disabled={!showCard}>
-            Hide Welcome Card
-          </Button>
+      {!showCard && (
+  <Button onClick={handleShow} variant="primary">
+    Show Welcome Card
+  </Button>
+)}
+{showCard && (
+  <Button onClick={handleHide} variant="secondary">
+    Hide Welcome Card
+  </Button>
+)}
+
+
         </div>
 
         <div className="flex-1 flex items-center justify-center">
