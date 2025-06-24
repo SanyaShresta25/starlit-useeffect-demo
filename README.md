@@ -10,8 +10,8 @@ A magical and animated **React + TypeScript** app that showcases component lifec
 
 ## 🚀 Live Demo
 
-[![Live](https://img.shields.io/badge/🌐%20Live-Click%20Here-blueviolet?style=flat&logo=vercel&logoColor=white)](https://your-demo-link.com)
-[![Code](https://img.shields.io/badge/💻%20Code-GitHub-lightpink?style=flat&logo=github)](https://github.com/SanyaShresta25/space-welcome)
+[![Live](https://img.shields.io/badge/🌐%20Live-Click%20Here-blueviolet?style=flat&logo=vercel&logoColor=white)](https://bespoke-torte-7c7206.netlify.app/)
+[![Code](https://img.shields.io/badge/💻%20Code-GitHub-lightpink?style=flat&logo=github)](https://github.com/SanyaShresta25/starlit-useeffect-demo)
 
 ---
 
