@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/11/e9/42/11e9421d56b1281a56957bcd9ba99a8a.gif" width="600" style="border-radius: 20px;" />
+  <img src="https://i.pinimg.com/originals/11/e9/42/11e9421d56b1281a56957bcd9ba99a8a.gif" width="200" style="border-radius: 20px;" />
 </p>
 
 # 🌌 Cosmic Explorer
