@@ -20,7 +20,7 @@ A magical and animated **React + TypeScript** app that showcases component lifec
   <img src="./screenshotcosmos.jpg" alt="Space App Screenshot" width="450" />
 </p>
 <p align="center">
-  <img src="./console.jpg" alt="Space App Screenshot" width="450" />
+  <img src="./console.jpg" alt="Space App Screenshot" width="350" />
 </p>
 
 ---
