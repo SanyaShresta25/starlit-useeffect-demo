@@ -1,12 +1,10 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/5e/02/90/5e02905af33f48b56ed3728fe7d3fe07.gif" width="600"/>
+</p>
 
 # 🌌 Space Welcome App
 
 A magical and animated **React + TypeScript** app that showcases component lifecycles using visual UI + cosmic elements like **Three.js**, glowing stars, fog, orbiting particles, and parallax movement. Built with **Tailwind CSS**, it’s the perfect canvas for learning and creativity. 🌠
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/5e/02/90/5e02905af33f48b56ed3728fe7d3fe07.gif" width="400"/>
-</p>
-
 ---
 
 ## 🚀 Live Demo
