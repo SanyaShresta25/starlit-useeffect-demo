@@ -1,10 +1,10 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/11/e9/42/11e9421d56b1281a56957bcd9ba99a8a.gif" width="600" style="border-radius: 20px;" />
+</p>
 
 # 🌌 Cosmic Explorer
 
 A magical and animated **React + TypeScript** app that showcases component lifecycles using visual UI + cosmic elements like **Three.js**, glowing stars, fog, orbiting particles, and parallax movement. Built with **Tailwind CSS**, it’s the perfect canvas for learning and creativity. 🌠
-<p align="center">
-  <img src="https://i.pinimg.com/originals/11/e9/42/11e9421d56b1281a56957bcd9ba99a8a.gif" width="400" style="border-radius: 20px;" />
-</p>
 
 ---
 
